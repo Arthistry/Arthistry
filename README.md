@@ -21,6 +21,8 @@
   <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="seaborn logo"  />
   <img width="16" />
 <div align="left">
+  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo"  />
+  <img width="16" />
   <a href="https://plotly.com/python"><img src="https://plotly.com/all_static/images/icon-dash.png" height="48" alt="plotly logo"  />
   <img width="16" />
   <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="48" alt="postgresql logo"  />
@@ -32,8 +34,6 @@
   <a href="https://airflow.apache.org"><img src="https://cwiki.apache.org/confluence/download/attachments/62693171/AIRFLOW?version=2&modificationDate=1567414976000&api=v2" height="48" alt="airflow logo"  />
   <img width="16" />
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
-  <img width="16" />
-  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo"  />
   <img width="16" />
 </div>
 
